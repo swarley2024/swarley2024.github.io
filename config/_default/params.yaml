@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: ''
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2019-{year} · HZHANG26. This work is licensed under {license}'
+    notice: '© 2019-{year} · HZHANG26'
     license:
       enable: false
       allow_derivatives: false
@@ -66,7 +66,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
