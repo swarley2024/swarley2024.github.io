@@ -1,12 +1,18 @@
 ---
 title: "Dual Adversarial Neural Transfer for Low-resource Named Entity Recognition"
 authors:
-- Joey Tianyi Zhou*
-- Hao Zhang*
+- Joey Tianyi Zhou
+- Hao Zhang
 - Di Jing
 - Hongyuan Zhu
 - Rick Siow Mong Goh
 - Kenneth Kwok
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: "2019-07-30T00:00:00Z"
 doi: "10.18653/v1/P19-1336"
 
@@ -21,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)"
-publication_short: "ACL 2019"
+publication_short: "In ACL"
 
 abstract: We propose a new neural transfer method termed Dual Adversarial Transfer Network (DATNet) for addressing low-resource Named Entity Recognition (NER). Specifically, two variants of DATNet, i.e., DATNet-F and DATNet-P, are investigated to explore effective feature fusion between high and low resource. To address the noisy and imbalanced training data, we propose a novel Generalized Resource-Adversarial Discriminator (GRAD). Additionally, adversarial training is adopted to boost model generalization. In experiments, we examine the effects of different components in DATNet across domains and languages, and show that significant improvement can be obtained especially for low-resource data, without augmenting any additional hand-crafted features and pre-trained language model.
 
